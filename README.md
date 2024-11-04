@@ -1,0 +1,2 @@
+# MalformedDNSQueryNginx
+Malformed DNS Query
